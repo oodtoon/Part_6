@@ -2,17 +2,17 @@
   "anecdotes": [
     {
       "content": "If it hurts, do it more often",
-      "votes": 19,
+      "votes": 51,
       "id": "47145"
     },
     {
       "content": "Adding manpower to a late software project makes it later!",
-      "votes": 10,
+      "votes": 15,
       "id": "21149"
     },
     {
       "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
-      "votes": 12,
+      "votes": 15,
       "id": "69581"
     },
     {
@@ -22,38 +22,133 @@
     },
     {
       "content": "Premature optimization is the root of all evil.",
-      "votes": 6,
+      "votes": 9,
       "id": "25170"
     },
     {
       "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
-      "votes": 7,
+      "votes": 13,
       "id": "98312"
     },
     {
       "content": "Always use console.log",
-      "votes": 2,
+      "votes": 5,
       "id": "e_Pd8SY"
     },
     {
       "content": "Always keep your console open",
-      "votes": 1,
+      "votes": 2,
       "id": "-2uOO3b"
     },
     {
       "content": "The network tab is important",
-      "votes": 1,
+      "votes": 4,
       "id": "TctIDVq"
     },
     {
       "content": "Learning context is difficult",
-      "votes": 3,
+      "votes": 8,
       "id": "ci8mxz4"
     },
     {
       "content": "POST request test",
-      "votes": 0,
+      "votes": 7,
       "id": "Mrvoyu5"
+    },
+    {
+      "content": "console.log can solve anything",
+      "votes": 26,
+      "id": "JSbeYnV"
+    },
+    {
+      "content": "Did it work?",
+      "votes": 10,
+      "id": "CSNx8Ou"
+    },
+    {
+      "content": "This is a test",
+      "votes": 5,
+      "id": "3xt0beZ"
+    },
+    {
+      "content": "votes work but do words",
+      "votes": 3,
+      "id": "aL8XLbH"
+    },
+    {
+      "content": "oen more time!",
+      "votes": 3,
+      "id": "IOQr13A"
+    },
+    {
+      "content": "I got lost in the sauce",
+      "votes": 9,
+      "id": "te2mWmh"
+    },
+    {
+      "content": "this is hard again",
+      "votes": 1,
+      "id": "WlFGvHh"
+    },
+    {
+      "content": "will it appear",
+      "votes": 3,
+      "id": "5V4Y7Tz"
+    },
+    {
+      "content": "one two three four five",
+      "votes": 2,
+      "id": "hEPT5np"
+    },
+    {
+      "content": "now let's try",
+      "votes": 7,
+      "id": "7L7UgfY"
+    },
+    {
+      "content": "this is hard",
+      "votes": 2,
+      "id": "YYdmfN7"
+    },
+    {
+      "content": "one more new note",
+      "votes": 1,
+      "id": "SZLD55O"
+    },
+    {
+      "content": "This is a test again",
+      "votes": 1,
+      "id": "RZAsI9k"
+    },
+    {
+      "content": "lets try",
+      "votes": 3,
+      "id": "-5Fu6jC"
+    },
+    {
+      "content": "this is hard still",
+      "votes": 0,
+      "id": "a1jlXMr"
+    },
+    {
+      "content": "try it again again",
+      "votes": 0,
+      "id": "oVUdy6O"
+    },
+    {
+      "content": "this is hard hard hard hard",
+      "votes": 0,
+      "id": "erO300U"
+    },
+    {
+      "content": "one two three",
+      "votes": 0,
+      "id": "QXYxrGg"
+    },
+    {
+      "content": "One more test test test test",
+      "votes": 0,
+      "id": "WHG1g5p"
     }
   ]
 }

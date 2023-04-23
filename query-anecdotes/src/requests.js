@@ -4,15 +4,22 @@ const baseUrl = "http://localhost:3001/anecdotes";
 
 export const getAnecdotes = () => axios.get(baseUrl).then((res) => res.data);
 
-export const createAnecdote = (NewAnecdote, response) => {
+export const createAnecdote = (NewAnecdote) => {
   const content = NewAnecdote.content;
-  if (content.legnth < 5) {
-    return response.status(400).json({
-      error: "too short anecdote, must have length 5 or more",
+  axios
+    .post(baseUrl, NewAnecdote)
+    .then((res) => {
+      if (content.length < 5) {
+        res
+          .status(400)
+          .send({ error: "too short anecdote, must have length 5 or more" });
+      } else {
+        return res.data;
+      }
+    })
+    .catch((error) => {
+      console.log("error", error)
     });
-  } else {
-    axios.post(baseUrl, NewAnecdote).then((res) => res.data);
-  }
 };
 
 export const addVote = (anecdote) => {
